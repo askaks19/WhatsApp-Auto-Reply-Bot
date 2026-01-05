@@ -232,7 +232,7 @@ MIT License - Feel free to use and modify
 ## Author
 
 **Ayush Kumar Singh**  
-B.Tech Computer Science (AI) - NITTE Meenakshi University
+B.Tech Computer Science (AI) - MIT Bengaluru
 
 ## Disclaimer
 
